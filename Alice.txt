@@ -3,3 +3,5 @@ Branching Alice.
 Merging divergent branches
 Updating the Dev Environment with remote changes +++***
 ggg
+Interactive Rebase
+Interactive Rebase, second part
